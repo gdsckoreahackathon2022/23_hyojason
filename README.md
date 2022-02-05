@@ -6,9 +6,9 @@
 오송경, 장윤주, 장지현
 
 ### 실행하기- <a href="https://github.com/gdsckoreahackathon2022/23_hyojason/blob/15899c5e62302d0b22b23382703f9aca3bfa8367/apk/app-release.apk">[apk-release 다운하기]</a></h3>
-위 다운로드 링크에서 apk를 다운 후 반드시 '안드로이드 앱' 환경에서 실행시켜주세요!
 
-# 📢로딩이 길어도 조금만 기다려주세요! 효자손은 빈화면이 없습니다
+#### 📢위 다운로드 링크에서 apk를 다운 후 반드시 '안드로이드 앱' 환경에서 실행시켜주세요!
+#### 📢로딩이 길어도 조금만 기다려주세요! 효자손은 빈화면이 없습니다
 
 
 ## 💡 개요
@@ -65,7 +65,7 @@ COPYRIGHT © 2019 질병관리청 ALL RIGHTS RESERVED.
 
 <img width="20%" src ="https://user-images.githubusercontent.com/54528942/152618156-dd69f6ea-5727-4192-95f2-dd4879c5aff7.jpg"/>
 
-큰 글씨와 간편한 UI, 직관적인 내용으로 사용하기에 편리하도록 했다. 
+최근 직관적인 UI변경으로 노년층에게 큰 사랑을 받은 은행 ATM를 참고하여 큰 글씨와 간편한 UI, 직관적인 내용으로 사용하기에 편리하도록 했다. 
 
 ② 뉴스정보
 
