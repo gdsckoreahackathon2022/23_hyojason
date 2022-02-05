@@ -11,6 +11,7 @@
 
 📢로딩이 길어도 조금만 기다려주세요! 효자손은 빈화면이 없습니다
 
+### 시연 동영상 보기- <a href="https://github.com/gdsckoreahackathon2022/23_hyojason/blob/f1adee07432d4cba24e6185b843ae0fb77a9a09c/%ED%9A%A8%EC%9E%90%EC%86%90_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4">[효자손 시연 영상 다운]</
 
 
 ## 💡 개요
