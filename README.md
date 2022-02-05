@@ -37,11 +37,13 @@
 ③ 고령층을 위한 커뮤니티의 부족
 ~~~~~
 ## 💡 앱 디자인
-### 1) 사용기술
+### 1) 사용기술 및 api
 ~~~
 - Flutter
 - Firebase (Firebase Storage, FireStore, Authentication)
-
+- Google map, place api
+- weather api
+- news api
 ~~~
 ### 2) 저작권 및 사용정보
 ~~~
