@@ -47,29 +47,29 @@ COPYRIGHT © 2019 질병관리청 ALL RIGHTS RESERVED.
 ### 1)기획의도
 ① 홈화면
 
-<img width="50%" src ="https://user-images.githubusercontent.com/54528942/152618156-dd69f6ea-5727-4192-95f2-dd4879c5aff7.jpg"/>
+<img width="20%" src ="https://user-images.githubusercontent.com/54528942/152618156-dd69f6ea-5727-4192-95f2-dd4879c5aff7.jpg"/>
 
 큰 글씨와 간편한 UI, 직관적인 내용으로 사용하기에 편리하도록 했다. 
 
 ② 뉴스정보
 
-<img width="45%" src ="https://user-images.githubusercontent.com/54528942/152618157-fe7bf3d3-0a95-4c64-b17c-71859ae46d7c.jpg"/><img width="45%" src ="https://user-images.githubusercontent.com/54528942/152618160-baf47f44-bc77-4c56-96b1-9c3a11c33f64.jpg"/>
+<img width="15%" src ="https://user-images.githubusercontent.com/54528942/152618157-fe7bf3d3-0a95-4c64-b17c-71859ae46d7c.jpg"/><img width="15%" src ="https://user-images.githubusercontent.com/54528942/152618160-baf47f44-bc77-4c56-96b1-9c3a11c33f64.jpg"/>
 
 기존의 포털사이트들은 글씨크기를 키울 수는 있지만 설정과정이 복잡하여 노년층의 사용이 어렵다고 생각하여 큰 글씨로 고정되어 있다.
 
 ③ 생활정보
 
-<img width="30%" src ="https://user-images.githubusercontent.com/54528942/152618164-1ce35727-e317-4a88-a7bc-8f1ef090aaf8.jpg"/><img width="30%" src ="https://user-images.githubusercontent.com/54528942/152618166-790aeb62-d33c-40e7-ab1a-2e520921ada9.jpg"/><img width="30%" src ="https://user-images.githubusercontent.com/54528942/152618149-e164b8c1-8280-4c72-a146-0039427374fb.jpg"/>
+<img width="15%" src ="https://user-images.githubusercontent.com/54528942/152618164-1ce35727-e317-4a88-a7bc-8f1ef090aaf8.jpg"/><img width="15%" src ="https://user-images.githubusercontent.com/54528942/152618166-790aeb62-d33c-40e7-ab1a-2e520921ada9.jpg"/><img width="15%" src ="https://user-images.githubusercontent.com/54528942/152618149-e164b8c1-8280-4c72-a146-0039427374fb.jpg"/>
 
 생활정보에는 실재 노년층이 다니는 성인문해학교 교과서를 기반으로 노년층이 최대한 다양한 양질의 정보를 얻을 수 있도록 구성했다. 병원 카테고리는 아픈 부위별로 가야할 병원을 사용자의 위치기반으로 병원정보를 제공하여 병원 진료 과가 생소한 노년층의 접근성을 높였다. 또한 노년층의 주요 이용서비스인 은행과 행정복지센터를 사용자 위치기반의 정보를 제공한다. 앱 내에서는 행복복지센터보다 노년층에게 익숙한 용어인 동사무소를 사용했다.
 
-<img width="30%" src ="https://user-images.githubusercontent.com/54528942/152618152-d4de97a0-ca76-4728-a237-ba6acb3b026d.jpg"/>
+<img width="15%" src ="https://user-images.githubusercontent.com/54528942/152618152-d4de97a0-ca76-4728-a237-ba6acb3b026d.jpg"/>
 
 생활의 지혜 카테고리는 기본적인 스마트폰 사용방법 설명부터 코로나19 관련정보, 노년층에게는 생소한 환경관련 정보, 보건복지부에서 제공하는 다양한 노인복지에 관한 정보들을 제공한다. 가장 필요한 정보를 쉽게 습득할 수 있도록 영상, 카드뉴스 형식으로 수록하였다.
 
 ④ 사진 공유
 
-<img width="30%" src ="https://user-images.githubusercontent.com/54528942/152618154-906912ab-3c1d-4197-8fd7-a29a9b76fd60.jpg"/>
+<img width="15%" src ="https://user-images.githubusercontent.com/54528942/152618154-906912ab-3c1d-4197-8fd7-a29a9b76fd60.jpg"/>
 
  효자손은 단순 교육뿐만 아니라 노인들만의 커뮤니티를 제공한다. 채팅사용이 어려운 노년층들 사이에서는 주로 사진과 동영상 공유가 이루어지는 것을 파악한 후 사진 업로드와 좋아요 기능만 추가하여 쉽게 사용이 가능한 커뮤니티를 구축했다.
 
