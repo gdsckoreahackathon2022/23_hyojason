@@ -8,6 +8,7 @@
 ### 실행하기- <a href="https://github.com/gdsckoreahackathon2022/23_hyojason/blob/15899c5e62302d0b22b23382703f9aca3bfa8367/apk/app-release.apk">[apk-release 다운하기]</a></h3>
 
 📢위 다운로드 링크에서 apk를 다운 후 반드시 '안드로이드 앱' 환경에서 실행시켜주세요!
+
 📢로딩이 길어도 조금만 기다려주세요! 효자손은 빈화면이 없습니다
 
 
