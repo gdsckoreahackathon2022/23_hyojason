@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380523309260",
+    "project_id": "hyojason-eb3cc",
+    "storage_bucket": "hyojason-eb3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380523309260:android:c0b5dc591cb6e47d24fa69",
+        "android_client_info": {
+          "package_name": "com.example.hyojason"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380523309260-23nsoj4r568ul6l64e6v1hle5sd3ttgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrhYBZezSDBy2EBhO44BVzS6kn6UP6hEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380523309260-23nsoj4r568ul6l64e6v1hle5sd3ttgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
