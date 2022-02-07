@@ -64,10 +64,7 @@
             android:value="2" />
 
        <meta-data android:name="com.google.android.geo.API_KEY"
-                  android:value="AIzaSyCrhYBZezSDBy2EBhO44BVzS6kn6UP6hEc"/>
-        <meta-data
-                android:name="com.naver.maps.map.CLIENT_ID"
-                android:value="mk5y9v1cw9" />
+                  android:value="apikey"/>
 
     </application>
 </manifest>
